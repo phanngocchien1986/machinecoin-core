@@ -6,6 +6,8 @@
 // https://en.machinecoin.it/wiki/Payment_Request
 //
 
+syntax = "proto2";
+
 package payments;
 option java_package = "org.machinecoin.protocols.payments";
 option java_outer_classname = "Protos";
